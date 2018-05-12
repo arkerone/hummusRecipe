@@ -29,6 +29,7 @@
   "dependencies": {
     "hummus": "^1.0.86",
     "linebreak": "^0.3.0",
+    "lodash": "^4.17.10",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
